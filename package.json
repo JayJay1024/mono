@@ -1,6 +1,9 @@
 {
   "name": "mono",
   "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
   "workspaces": [
     "packages/*"
   ],
