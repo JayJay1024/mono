@@ -3033,7 +3033,7 @@ npmlog@^6.0.0, npmlog@^6.0.2:
     gauge "^4.0.3"
     set-blocking "^2.0.0"
 
-nx@14.6.1, "nx@>=14.6.1 < 16":
+nx@14.6.1, "nx@>=14.6.1 < 16", nx@^14.6.1:
   version "14.6.1"
   resolved "http://localhost:4873/nx/-/nx-14.6.1.tgz#57b1bd19c018cc125330e91a05523e6a081c2dce"
   integrity sha512-dJH6A2ff7AO3hXYkjh7qRBZjCEvmjoJ5IQaoi7aEDcLQES5ujePmSS5TZK7NokrdrekDs3MYw3ecPZcVw7lCyg==
