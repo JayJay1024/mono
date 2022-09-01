@@ -1,7 +1,3 @@
 'use strict';
 
-module.exports = utils;
-
-function utils() {
-    return "Hello from utils";
-}
+export const add = (a, b) => a + b;
